@@ -1,2 +1,2 @@
 # Smart-Recipe-Generator
-Smart Recipe Generator with aistudio APT key
+Smart Recipe Generator with aistudio API key
