@@ -23,7 +23,7 @@ HTML, CSS, JavaScript · Google AI Studio API (Gemini)
 ![Screenshot 2](Recipe%20Gen%2002.png)
 ![Screenshot 3](Recipe%20Gen%2003.png)
 
-## Live demo
+
 
 
 ## Author
