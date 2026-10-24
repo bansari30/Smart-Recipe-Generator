@@ -24,7 +24,7 @@ HTML, CSS, JavaScript · Google AI Studio API (Gemini)
 ![Screenshot 3](Recipe%20Gen%2003.png)
 
 ## Live demo
-[Add your link here]
+
 
 ## Author
 Bansariben Sorathiya, [LinkedIn](https://www.linkedin.com/in/bansari-varsani-2b9535149)
